@@ -1,0 +1,16 @@
+{
+  "name": "acme-theme-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Clone of Acme Editor theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "acme"
+  ],
+  "repository": "https://github.com/atom/acme-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
