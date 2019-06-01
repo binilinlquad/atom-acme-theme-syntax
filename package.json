@@ -5,8 +5,7 @@
   "description": "Clone of Acme Editor theme",
   "keywords": [
     "syntax",
-    "theme",
-    "acme"
+    "theme"
   ],
   "repository": "https://github.com/atom/acme-theme-syntax",
   "license": "MIT",
